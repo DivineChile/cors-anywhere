@@ -1,6 +1,8 @@
 *.swp
 *.tmp
 *.log
+*.pem
 
 coverage/
 node_modules/
+
